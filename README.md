@@ -19,4 +19,6 @@ Due to its size, this data will be made available through a website (link to be 
 Soon we will include the arXiv paper here.
 
 ## License
-All audio recordings are property of Studio Kanlagou, Studio Tamani and Fondation Hirondelle. They are shared under Creative Commons BY-NC-ND 3.0.
+All audio recordings are property of Studio Kanlagou, Studio Tamani and Fondation Hirondelle. 
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License</a>.
