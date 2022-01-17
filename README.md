@@ -14,12 +14,15 @@ Due to its size, this data is made available through [this website](https://demo
 
 ## Citation 
 
+```
 @article{boito2022speech,
   title={Speech Resources in the Tamasheq Language},
-  author={Boito, Marcely and Bougares, Fethi and Barbier, Florentin and Gahbiche, Souhir and Barrault, Lo\"ic and Rouvier, Mickael and Est\'eve, Yannick},
+  author={Boito, Marcely and Bougares, Fethi and Barbier, Florentin and Gahbiche, 
+          Souhir and Barrault, Lo\"ic and Rouvier, Mickael and Est\'eve, Yannick},
   journal={arXiv preprint arXiv:2201.05051},
   year={2022}
 }
+```
 
 ## License
 All audio recordings are property of Studio Kanlagou, Studio Tamani and Fondation Hirondelle. 
