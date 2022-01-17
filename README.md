@@ -5,8 +5,6 @@ Repository for sharing the data in the Tamasheq language, one of the languages f
 ## Parallel data
 This corpus is a collection of radio recordings from [Studio Kalangou](https://www.studiokalangou.org/) translated to French. It comprises 17 hours of clean speech in Tamasheq, translated to the French language. We also make available a 19 hour version of this corpus, including 2 additional hours of data that was labeled by annotators as potentially noisy. Both versions of this dataset share the same validation and test sets. 
 
-* Speaker identification and gender: (information to be included soon)
-
 ## Additional Audio data
 In addition to the 17-19 hours of Tamasheq audio data aligned to French translations, and in light of recent work in self-supervised models for speech processing, we also provide participants with unlabaled raw audio data in the Tamasheq language, as well as in other 4 languages spoken in the Republic of the Niger: French (116 hours), Fulfulde (114 hours), Hausa (105 hours), Tamashek (234 hours) and Zarma (100 hours). All this data comes from the radio broadcastings of [Studio Kalangou](https://www.studiokalangou.org/) and [Studio Tamani](https://www.studiotamani.org/).
 
@@ -16,7 +14,12 @@ Due to its size, this data is made available through [this website](https://demo
 
 ## Citation 
 
-Soon we will include the arXiv paper here.
+@article{boito2022speech,
+  title={Speech Resources in the Tamasheq Language},
+  author={Boito, Marcely and Bougares, Fethi and Barbier, Florentin and Gahbiche, Souhir and Barrault, Lo\"ic and Rouvier, Mickael and Est\'eve, Yannick},
+  journal={arXiv preprint arXiv:2201.05051},
+  year={2022}
+}
 
 ## License
 All audio recordings are property of Studio Kanlagou, Studio Tamani and Fondation Hirondelle. 
