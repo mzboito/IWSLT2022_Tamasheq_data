@@ -13,6 +13,7 @@ The participants are not required to use any of this data.
 Due to its size, this data is made available through [this website](https://demo-lia.univ-avignon.fr/studios-tamani-kalangou/).
 
 ## Citation 
+Our paper is available on [arXiv](https://arxiv.org/abs/2201.05051).
 
 ```
 @article{boito2022speech,
