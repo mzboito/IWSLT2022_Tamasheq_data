@@ -18,7 +18,7 @@ Our paper is available on [arXiv](https://arxiv.org/abs/2201.05051).
 ```
 @article{boito2022speech,
   title={Speech Resources in the Tamasheq Language},
-  author={Boito, Marcely and Bougares, Fethi and Barbier, Florentin and Gahbiche, 
+  author={Boito, Marcely Zanon and Bougares, Fethi and Barbier, Florentin and Gahbiche, 
           Souhir and Barrault, Lo\"ic and Rouvier, Mickael and Est\'eve, Yannick},
   journal={arXiv preprint arXiv:2201.05051},
   year={2022}
