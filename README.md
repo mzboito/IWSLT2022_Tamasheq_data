@@ -6,7 +6,7 @@ Repository for sharing the data in the Tamasheq language, one of the languages f
 This corpus is a collection of radio recordings from [Studio Kalangou](https://www.studiokalangou.org/) translated to French. It comprises 17 hours of clean speech in Tamasheq, translated to the French language. We also make available a 19 hour version of this corpus, including 2 additional hours of data that was labeled by annotators as potentially noisy. Both versions of this dataset share the same validation and test sets. 
 
 ## Additional Audio data
-In addition to the 17 hours of Tamasheq audio data aligned to French translations, and in light of recent work in self-supervised models for speech processing, we also provide participants with unlabaled raw audio data in the Tamasheq language, as well as in other 4 languages spoken in the Republic of the Niger: French (116 hours), Fulfulde (114 hours), Hausa (105 hours), Tamashek (234 hours) and Zarma (100 hours). All this data comes from the radio broadcastings of [Studio Kalangou](https://www.studiokalangou.org/) and [Studio Tamani](https://www.studiotamani.org/).
+In addition to the 17 hours of Tamasheq audio data aligned to French translations, and in light of recent work in self-supervised models for speech processing, we also provide participants with unlabaled raw audio data in the Tamasheq language, as well as in other 4 languages spoken from Niger: French (116 hours), Fulfulde (114 hours), Hausa (105 hours), Tamasheq (234 hours) and Zarma (100 hours). All this data comes from the radio broadcastings of [Studio Kalangou](https://www.studiokalangou.org/) and [Studio Tamani](https://www.studiotamani.org/).
 
 The participants are not required to use any of this data. 
 
@@ -20,7 +20,7 @@ Our paper is available on [arXiv](https://arxiv.org/abs/2201.05051).
   title={Speech Resources in the Tamasheq Language},
   author={Boito, Marcely Zanon and Bougares, Fethi and Barbier, Florentin and Gahbiche, 
           Souhir and Barrault, Lo\"ic and Rouvier, Mickael and Est\'eve, Yannick},
-  journal={arXiv preprint arXiv:2201.05051},
+  journal={Language Resources and Evaluation Conference (LREC)},
   year={2022}
 }
 ```
